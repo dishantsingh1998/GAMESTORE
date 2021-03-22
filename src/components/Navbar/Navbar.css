@@ -1,0 +1,20 @@
+.slideshow-container {
+    max-width: 10px;
+    max-height: 10px;
+    position: relative;
+    margin: auto;
+  }
+
+  .mySlides {
+    display: none;
+  }
+
+  .text{
+
+    style:100%;
+  
+  
+  }
+  
+  
+  
